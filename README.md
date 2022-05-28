@@ -24,10 +24,11 @@ The output is `200` if the policy of controllers is not violating the policy of 
 
 ## About  
 
+Supported by the Federal Ministry for Transport, Innovation and Technology (bmvit) through funding in the program “IKT der Zukunft” under [grant number 887052](https://projekte.ffg.at/projekt/4125456).
+
 <img align="left" src="https://raw.githubusercontent.com/OwnYourData/dpv-service/main/res/FFG_Logo_EN_RGB_1000px.png" height="150">
 
-<img align="right" src="https://raw.githubusercontent.com/OwnYourData/dpv-service/main/res/BMDW_Logo_RGB.png" height="150">
+<img align="right" src="https://raw.githubusercontent.com/OwnYourData/dpv-service/main/res/BMDW_Logo_RGB.png" height="110">
 
-Supported by the Federal Ministry for Transport, Innovation and Technology (bmvit) through funding in the program “IKT der Zukunft” under [grant number 887052](https://projekte.ffg.at/projekt/4125456).
 
 Contact `fajar.ekaputra@tuwien.ac.at` for further questions. 
