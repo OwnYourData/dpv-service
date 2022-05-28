@@ -10,7 +10,8 @@ Build instructions:
 
 ### Instruction:  
 The service is available at   
-  - `http://localhost:2806/api/validate/usagepolicy`
+  - local deployment: `http://localhost:2806/api/validate/usagepolicy`
+  - public instance: `https://dpv.ownyourdata.eu/api/validate/usagepolicy`
 
 Example usage: `curl -s -o /dev/null -w "%{http_code}" -H "Content-Type: application/json" -d "$(< src/test/resources/dpv/tester.json)" -X POST http://localhost:2806/api/validate/usagepolicy`  
 
@@ -21,6 +22,10 @@ There are four example turtle files in the `test/resources/dpv` directory for yo
 
 The output is `200` if the policy of controllers is not violating the policy of users, or `500` otherwise.
 
+### Further Information
+
+Find out more about the Data Privacy Vocabulary here: https://w3c.github.io/dpv/dpv/    
+The current implementation was tested against v0.4 of the DPV.
 
 ## About  
 
