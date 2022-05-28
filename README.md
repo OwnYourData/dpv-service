@@ -30,5 +30,6 @@ Supported by the Federal Ministry for Transport, Innovation and Technology (bmvi
 
 <img align="right" src="https://raw.githubusercontent.com/OwnYourData/dpv-service/main/res/BMDW_Logo_RGB.png" height="110">
 
+<br clear="both" />
 
 Contact `fajar.ekaputra@tuwien.ac.at` for further questions. 
